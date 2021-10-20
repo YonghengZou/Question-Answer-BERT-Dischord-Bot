@@ -15,5 +15,5 @@ This project is a Chatbot deployed on discord channel. It is capable of answerin
 
 # Developers
 - Kaushik Jeyaraman: kaushikjjj@gmail.com
-- Youngheng Zou
+- Youngheng Zou: yonghengzou@uvic.ca
 - Hanxiao Chen
